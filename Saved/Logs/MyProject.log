@@ -2407,3 +2407,201 @@ LogInit: Object subsystem initialized
 [2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
 [2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 9 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
 [2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 10 (Closing connection 119)
+[2018.09.06-03.16.29:613][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.16.47:618][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.17.04:047][658]LogSlate: Window 'Select Path' being destroyed
+[2018.09.06-03.17.04:129][658]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Boost_blueprint_Blueprint.Boost_blueprint_Blueprint
+[2018.09.06-03.17.09:435][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.17.13:267][166]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.17.15:892][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.17.20:537][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.17.31:746][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.17.31:848][988]LogSlate: Window 'Boost_blueprint_Blueprint*' being destroyed
+[2018.09.06-03.17.31:856][988]LogSlate: Window 'Boost_blueprint_Blueprint*' being destroyed
+[2018.09.06-03.17.31:956][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.06-03.17.34:815][131]LogEditorActor: Deleted Actor: Boost_blueprint_Blueprint_C
+[2018.09.06-03.17.34:922][131]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2018.09.06-03.17.40:876][392]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.06-03.17.44:719][619]LogActorFactory: Actor Factory created Cube
+[2018.09.06-03.17.45:384][659]LogActorFactory: Actor Factory created Cube
+[2018.09.06-03.17.56:408][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.18.00:397][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.18.02:968][708]LogSlate: Window 'Select Path' being destroyed
+[2018.09.06-03.18.03:043][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.18.03:047][708]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2018.09.06-03.18.07:337][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.18.23:766][812]LogEditorViewport: Clicking on Actor (LMB): ScrollBookCandle_Book_Blueprint_C (Livre_blueprint)
+[2018.09.06-03.18.25:070][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.18.26:040][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.18.26:044][946]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ScrollBookCandle_Book_Blueprint.ScrollBookCandle_Book_Blueprint
+[2018.09.06-03.18.42:705][869]LogSlate: Window 'ScrollBookCandle_Book_Blueprint' being destroyed
+[2018.09.06-03.18.42:710][869]LogSlate: Window 'ScrollBookCandle_Book_Blueprint' being destroyed
+[2018.09.06-03.18.42:818][869]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.06-03.18.44:204][944]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2018.09.06-03.18.44:844][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.18.46:497][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.18.46:502][ 79]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2018.09.06-03.18.58:882][339]LogSlate: Window 'Cube_Blueprint*' being destroyed
+[2018.09.06-03.18.58:885][339]LogSlate: Window 'Cube_Blueprint*' being destroyed
+[2018.09.06-03.19.00:002][397]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2018.09.06-03.19.00:796][444]Cmd: DELETE
+[2018.09.06-03.19.00:796][444]Cmd: ACTOR DELETE
+[2018.09.06-03.19.00:799][444]LogEditorActor: Deleted Actor: Cube_Blueprint_C
+[2018.09.06-03.19.00:826][444]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.09.06-03.19.02:669][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.19.03:398][598]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2018.09.06-03.19.04:779][643]LogSlate: Window 'Cube_Blueprint*' being destroyed
+[2018.09.06-03.19.04:797][643]LogSlate: Window 'Cube_Blueprint*' being destroyed
+[2018.09.06-03.19.05:600][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.19.10:178][717]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.06-03.19.20:741][164]LogActorFactory: Actor Factory created Cube
+[2018.09.06-03.19.21:928][226]LogActorFactory: Actor Factory created Cube
+[2018.09.06-03.19.24:253][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.19.29:484][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.19.30:858][627]LogSlate: Window 'Select Path' being destroyed
+[2018.09.06-03.19.30:940][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.19.30:948][627]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2018.09.06-03.21.12:422][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.25.11:456][963]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UMovementComponent::GetMaxSpeed' [Élément introuvable.]
+[2018.09.06-03.26.50:066][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset" SILENT=true
+[2018.09.06-03.26.50:228][225]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Cube_BlueprintDD914CE64DFC325305E1E88F7D22B92B.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset'
+[2018.09.06-03.26.50:970][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.26.51:012][243]BlueprintLog: New page: Compile Cube_Blueprint
+[2018.09.06-03.26.51:044][243]LogBlueprint: Error: [Compiler Cube_Blueprint] This blueprint (self) is not a MovementComponent, therefore ' Target ' must have a connection.
+[2018.09.06-03.26.51:847][243]LogBlueprint: Warning: [Compiler Cube_Blueprint] [9979,22] Compile of Cube_Blueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 835 ms] (/Game/Cube_Blueprint.Cube_Blueprint)
+[2018.09.06-03.27.21:955][529]Cmd: TRANSACTION UNDO
+[2018.09.06-03.27.21:955][529]LogEditorTransaction: Undo Delete current selection
+[2018.09.06-03.27.29:565][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset" SILENT=true
+[2018.09.06-03.27.29:597][901]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Cube_Blueprint8526C03245506652223B42B1A3C3DC46.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset'
+[2018.09.06-03.27.30:818][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.27.35:316][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset" SILENT=true
+[2018.09.06-03.27.35:343][249]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Cube_Blueprint50CD0F13436D23DB14EBFFB75F1673DD.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset'
+[2018.09.06-03.27.35:835][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.27.40:513][590]BlueprintLog: New page: Compile Cube_Blueprint
+[2018.09.06-03.27.42:182][639]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.27.42:284][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.27.42:284][639]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.06-03.27.42:290][639]LogPlayLevel: [PlayLevel] Compiling Boost_blueprint_Blueprint before play...
+[2018.09.06-03.27.42:826][639]LogPlayLevel: PlayLevel: Blueprint regeneration took 542 ms (1 blueprints)
+[2018.09.06-03.27.42:827][639]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 19:27:42)
+[2018.09.06-03.27.42:827][639]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.06-03.27.42:866][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039112s)
+[2018.09.06-03.27.42:869][639]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.06-03.27.42:870][639]LogPlayLevel: PIE: World Init took: (0.002993s)
+[2018.09.06-03.27.42:870][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.042644s)
+[2018.09.06-03.27.43:021][639]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.06-03.27.43:059][639]LogInit: FAudioDevice initialized.
+[2018.09.06-03.27.43:121][639]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.06-03.27.43:124][639]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.05-23.27.43
+[2018.09.06-03.27.43:125][639]LogWorld: Bringing up level for play took: 0.002581
+[2018.09.06-03.27.43:138][639]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,534
+[2018.09.06-03.27.43:138][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.27.44:224][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.27.52:204][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.27.52:204][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.27.52:243][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.27.52:243][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.27.52:270][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.27.52:305][330]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.09.06-03.27.56:982][812]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2018.09.06-03.27.59:086][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.28.00:085][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.28.06:629][338]BlueprintLog: New page: Compile Cube_Blueprint
+[2018.09.06-03.28.08:818][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.28.08:887][485]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.28.08:911][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.28.08:911][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-03.28.08:911][485]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 19:28:08)
+[2018.09.06-03.28.08:911][485]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.06-03.28.08:925][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013786s)
+[2018.09.06-03.28.08:926][485]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.06-03.28.08:926][485]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2018.09.06-03.28.08:926][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014881s)
+[2018.09.06-03.28.08:986][485]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.06-03.28.08:993][485]LogInit: FAudioDevice initialized.
+[2018.09.06-03.28.09:023][485]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.06-03.28.09:027][485]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.05-23.28.09
+[2018.09.06-03.28.09:027][485]LogWorld: Bringing up level for play took: 0.002468
+[2018.09.06-03.28.09:040][485]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,436
+[2018.09.06-03.28.09:040][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.28.14:097][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.28.14:097][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.28.14:159][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.28.14:159][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.28.14:273][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.28.14:355][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.09.06-03.28.16:649][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.28.21:591][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset" SILENT=true
+[2018.09.06-03.28.21:619][381]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Cube_BlueprintF6C594624F02D1A1248F79B3C422473F.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset'
+[2018.09.06-03.28.23:502][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.28.23:556][516]BlueprintLog: New page: Compile Cube_Blueprint
+[2018.09.06-03.28.39:644][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset" SILENT=true
+[2018.09.06-03.28.39:673][548]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Cube_Blueprint31E850B14E264FD1BEDCC6AD46373CB6.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset'
+[2018.09.06-03.28.40:804][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.28.45:953][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset" SILENT=true
+[2018.09.06-03.28.45:978][939]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Cube_Blueprint1103E7134EA8C791DBFDCA85040D1067.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset'
+[2018.09.06-03.28.49:105][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.28.49:146][158]BlueprintLog: New page: Compile Cube_Blueprint
+[2018.09.06-03.28.50:945][267]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.28.50:968][267]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.28.50:968][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-03.28.50:968][267]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 19:28:50)
+[2018.09.06-03.28.50:968][267]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.06-03.28.50:980][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011290s)
+[2018.09.06-03.28.50:981][267]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.06-03.28.50:981][267]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.09.06-03.28.50:981][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012295s)
+[2018.09.06-03.28.51:008][267]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.06-03.28.51:015][267]LogInit: FAudioDevice initialized.
+[2018.09.06-03.28.51:048][267]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.06-03.28.51:051][267]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.05-23.28.51
+[2018.09.06-03.28.51:051][267]LogWorld: Bringing up level for play took: 0.001964
+[2018.09.06-03.28.51:064][267]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,46
+[2018.09.06-03.28.51:064][267]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.28.51:064][267]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2018.09.06-03.28.51:810][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.29.01:364][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.29.01:364][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.29.01:406][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.29.01:406][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.29.01:432][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.29.01:488][385]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.09.06-03.29.03:842][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.29.08:313][991]LogSlate: Window 'Message Log' being destroyed
+[2018.09.06-03.29.08:322][991]LogSlate: Window 'Message Log' being destroyed
+[2018.09.06-03.29.09:928][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.29.35:552][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset" SILENT=true
+[2018.09.06-03.29.35:579][696]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Cube_Blueprint68B07D574BE884980A7AC988B6AF7B74.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/Cube_Blueprint.uasset'
+[2018.09.06-03.29.37:336][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.29.37:388][799]BlueprintLog: New page: Compile Cube_Blueprint
+[2018.09.06-03.29.38:861][836]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.29.38:940][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.29.38:940][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-03.29.38:940][836]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 19:29:38)
+[2018.09.06-03.29.38:941][836]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.06-03.29.38:985][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044680s)
+[2018.09.06-03.29.38:987][836]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.06-03.29.38:988][836]LogPlayLevel: PIE: World Init took: (0.002671s)
+[2018.09.06-03.29.38:988][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.047856s)
+[2018.09.06-03.29.39:135][836]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.06-03.29.39:169][836]LogInit: FAudioDevice initialized.
+[2018.09.06-03.29.39:229][836]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.06-03.29.39:237][836]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.05-23.29.39
+[2018.09.06-03.29.39:238][836]LogWorld: Bringing up level for play took: 0.005991
+[2018.09.06-03.29.39:254][836]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,65
+[2018.09.06-03.29.39:255][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.29.39:747][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.29.54:143][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.29.54:143][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.29.54:182][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.29.54:182][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.29.54:209][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.29.54:244][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.09.06-03.30.05:952][198]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2018.09.06-03.30.05:954][198]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2018.09.06-03.30.08:243][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.30.23:937][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.30.28:430][782]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap1F57E9574D1B5D7AB1C975965E3D87AE.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.06-03.30.29:327][782]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_BuiltDataCDD4946548CB19B29FC11BAE04BB17B3.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.06-03.32.25:205][410]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMapE9DC8DA54BAD3292BA499A98A5128936.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.06-03.32.25:976][410]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_BuiltDataC86EB24448E7A65148C802B4C28C1CD3.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
