@@ -1631,3 +1631,779 @@ LogInit: Object subsystem initialized
 [2018.09.05-21.33.50:444][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.09.05-21.33.50:653][674]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMapA9D832C741F4B14B367732BB446D8F44.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2018.09.05-21.33.51:942][674]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_BuiltData0FABE0E649F458C8EAF48683F231EA14.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.05-21.34.33:031][260]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Porte_blueprint_Blueprint.Porte_blueprint_Blueprint
+[2018.09.05-21.34.38:090][540]LogSlate: Window 'Porte_blueprint_Blueprint*' being destroyed
+[2018.09.05-21.34.38:099][540]LogSlate: Window 'Porte_blueprint_Blueprint*' being destroyed
+[2018.09.05-21.34.46:885][790]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.05-21.34.51:389][ 58]Cmd: EDIT COPY
+[2018.09.05-21.34.56:472][346]LogEditorActor: Deleted Actor: Porte_blueprint_Blueprint_C
+[2018.09.05-21.34.56:494][346]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.05-21.34.58:085][442]Cmd: EDIT PASTE
+[2018.09.05-21.35.00:779][601]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Porte_blueprint_Blueprint.Porte_blueprint_Blueprint
+[2018.09.05-21.35.03:143][720]LogSlate: Window 'Porte_blueprint_Blueprint*' being destroyed
+[2018.09.05-21.35.03:148][720]LogSlate: Window 'Porte_blueprint_Blueprint*' being destroyed
+[2018.09.05-21.35.05:213][834]LogEditorActor: Deleted Actor: Porte_blueprint_Blueprint_C
+[2018.09.05-21.35.05:238][834]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.09.05-21.35.06:195][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MurPorteDroite)
+[2018.09.05-21.35.07:605][975]Cmd: EDIT COPY
+[2018.09.05-21.35.07:891][992]Cmd: EDIT PASTE
+[2018.09.05-21.35.31:635][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-21.35.41:391][999]LogSlate: Window 'Select Path' being destroyed
+[2018.09.05-21.35.41:471][999]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Porte_blueprint_Blueprint1.Porte_blueprint_Blueprint1
+[2018.09.05-21.35.44:097][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-21.45.17:936][768]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_Auto4C5D5DD7541451D35ED567FADFAEC34D0.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.09.05-21.45.17:944][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.222
+[2018.09.05-21.45.17:944][768]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2018.09.05-21.45.17:946][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Porte_blueprint_Blueprint1] ([1] browsable assets)...
+[2018.09.05-21.45.17:974][768]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Porte_blueprint_Blueprint1.Porte_blueprint_Blueprint1]
+[2018.09.05-21.45.17:974][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Porte_blueprint_Blueprint1]
+[2018.09.05-21.45.18:000][768]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Porte_blueprint_Blueprint1_Auto4ADD4178348FB38CFC7A790B6214BB85E.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/Porte_blueprint_Blueprint1_Auto4.uasset'
+[2018.09.05-21.45.18:001][768]LogFileHelpers: Auto-saving content packages took 0.055
+[2018.09.05-21.49.45:695][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-21.51.54:067][620]LogSlate: Took 0.005049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.05-21.51.58:292][785]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.09.05-21.51.58:316][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-21.52.02:404][984]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.05-21.52.02:416][984]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.05-21.52.04:106][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-21.53.15:511][512]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::ComposeRotators' [Élément introuvable.]
+[2018.09.05-21.54.09:802][ 30]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{cb21642a-8f3f-4a10-9748-b9d2904a4d29} was removed. Shutting down audio device.
+[2018.09.05-21.54.09:802][ 30]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-21.59.41:413][216]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_Auto586BF8C5047825D67BFED8D9C63004A7F.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2018.09.05-21.59.41:454][216]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.877
+[2018.09.05-21.59.41:454][216]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.877
+[2018.09.05-21.59.41:477][216]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Porte_blueprint_Blueprint1] ([1] browsable assets)...
+[2018.09.05-21.59.41:572][216]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Porte_blueprint_Blueprint1.Porte_blueprint_Blueprint1]
+[2018.09.05-21.59.41:573][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/Porte_blueprint_Blueprint1]
+[2018.09.05-21.59.41:771][216]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Porte_blueprint_Blueprint1_Auto51EB253AF4919ABE3E08ABDA678EE9F8F.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/Porte_blueprint_Blueprint1_Auto5.uasset'
+[2018.09.05-21.59.41:777][216]LogFileHelpers: Auto-saving content packages took 0.306
+[2018.09.05-21.59.47:988][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-22.00.09:193][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [can pipeline])
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 1 (Re-using existing connection! (#74) with host datarouter.ol.epicgames.com)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.168.99.131) port 443 (#74))
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 3 (upload completely sent off: 2221 out of 2221 bytes)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 6 (Closing connection 74)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 8 (  Trying 52.204.40.189...)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 9 (TCP_NODELAY set)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.204.40.189) port 443 (#75))
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 13 (SSL re-using session ID)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.02.30:118][ 68]LogHttp: Warning: 00000216359D9A80: libcurl info message cache 15 (Closing connection 75)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 2 (  Trying 34.205.114.120...)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.205.114.120) port 443 (#76))
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.04.24:453][409]LogHttp: Warning: 0000021598A35940: libcurl info message cache 9 (Closing connection 76)
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: libcurl info message cache 0 (  Trying 34.224.106.243...)
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.224.106.243) port 443 (#77))
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.09.25:109][305]LogHttp: Warning: 0000021598A35940: libcurl info message cache 7 (Closing connection 77)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 2 (  Trying 34.207.10.243...)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.207.10.243) port 443 (#78))
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.11.24:113][660]LogHttp: Warning: 0000021598A37740: libcurl info message cache 9 (Closing connection 78)
+[2018.09.05-22.12.24:050][839]LogHttp: Warning: 0000021598A35E40: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 2 (  Trying 52.2.250.239...)
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.2.250.239) port 443 (#79))
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.12.24:051][839]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 9 (Closing connection 79)
+[2018.09.05-22.17.24:635][734]LogHttp: Warning: 0000021598A35E40: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.17.24:636][734]LogHttp: Warning: 0000021598A35E40: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.17.24:636][734]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 0 (  Trying 34.225.34.243...)
+[2018.09.05-22.17.24:636][734]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-22.17.24:636][734]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.34.243) port 443 (#80))
+[2018.09.05-22.17.24:636][734]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-22.17.24:637][734]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.17.24:638][734]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-22.17.24:638][734]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.17.24:638][734]LogHttp: Warning: 0000021598A35E40: libcurl info message cache 7 (Closing connection 80)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 2 (  Trying 34.197.134.170...)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.197.134.170) port 443 (#81))
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.19.24:072][ 89]LogHttp: Warning: 0000021598A35BC0: libcurl info message cache 9 (Closing connection 81)
+[2018.09.05-22.20.24:257][268]LogHttp: Warning: 0000021598A36D40: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.20.24:257][268]LogHttp: Warning: 0000021598A36D40: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.20.24:257][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.20.24:257][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.20.24:257][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 2 (  Trying 35.168.99.131...)
+[2018.09.05-22.20.24:257][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.20.24:257][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (35.168.99.131) port 443 (#82))
+[2018.09.05-22.20.24:258][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.20.24:258][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.20.24:258][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.20.24:258][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.20.24:258][268]LogHttp: Warning: 0000021598A36D40: libcurl info message cache 9 (Closing connection 82)
+[2018.09.05-22.25.24:638][164]LogHttp: Warning: 0000021641CBE200: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.25.24:638][164]LogHttp: Warning: 0000021641CBE200: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.25.24:638][164]LogHttp: Warning: 0000021641CBE200: libcurl info message cache 0 (  Trying 52.200.109.100...)
+[2018.09.05-22.25.24:638][164]LogHttp: Warning: 0000021641CBE200: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-22.25.24:638][164]LogHttp: Warning: 0000021641CBE200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.200.109.100) port 443 (#83))
+[2018.09.05-22.25.24:638][164]LogHttp: Warning: 0000021641CBE200: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-22.25.24:639][164]LogHttp: Warning: 0000021641CBE200: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.25.24:639][164]LogHttp: Warning: 0000021641CBE200: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-22.25.24:639][164]LogHttp: Warning: 0000021641CBE200: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.25.24:639][164]LogHttp: Warning: 0000021641CBE200: libcurl info message cache 7 (Closing connection 83)
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 2 (  Trying 52.2.147.45...)
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.2.147.45) port 443 (#84))
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.27.24:262][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.27.24:263][520]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 9 (Closing connection 84)
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 0 (  Trying 52.1.169.243...)
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.169.243) port 443 (#85))
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.32.24:648][415]LogHttp: Warning: 0000021641CBE980: libcurl info message cache 7 (Closing connection 85)
+[2018.09.05-22.34.24:118][771]LogHttp: Warning: 0000021641CBD580: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.34.24:118][771]LogHttp: Warning: 0000021641CBD580: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.34.24:118][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 2 (  Trying 34.237.88.192...)
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.237.88.192) port 443 (#86))
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.34.24:119][771]LogHttp: Warning: 0000021641CBD580: libcurl info message cache 9 (Closing connection 86)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 2 (  Trying 52.205.79.197...)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.205.79.197) port 443 (#87))
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.35.24:087][950]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 9 (Closing connection 87)
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 0 (  Trying 35.173.108.73...)
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.173.108.73) port 443 (#88))
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.40.24:659][846]LogHttp: Warning: 0000021641CBD440: libcurl info message cache 7 (Closing connection 88)
+[2018.09.05-22.42.24:279][202]LogHttp: Warning: 0000021641CBEC00: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 2 (  Trying 52.2.36.251...)
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.2.36.251) port 443 (#89))
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.42.24:280][202]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 9 (Closing connection 89)
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 0 (  Trying 34.197.134.170...)
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.197.134.170) port 443 (#90))
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.47.24:536][ 96]LogHttp: Warning: 0000021641CBEC00: libcurl info message cache 7 (Closing connection 90)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 2 (  Trying 34.207.10.243...)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.207.10.243) port 443 (#91))
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.49.24:437][453]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 9 (Closing connection 91)
+[2018.09.05-22.54.25:148][348]LogHttp: Warning: 0000021641CBF880: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 0 (  Trying 34.206.173.2...)
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.173.2) port 443 (#92))
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.54.25:149][348]LogHttp: Warning: 0000021641CBF880: libcurl info message cache 7 (Closing connection 92)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 2 (  Trying 34.202.96.104...)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.202.96.104) port 443 (#93))
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.56.23:958][702]LogHttp: Warning: 0000021641CBF9C0: libcurl info message cache 9 (Closing connection 93)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: request failed, libcurl error: 0 (No error)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 2 (  Trying 34.207.38.109...)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.207.38.109) port 443 (#94))
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-22.57.24:044][881]LogHttp: Warning: 0000021641CBFD80: libcurl info message cache 9 (Closing connection 94)
+[2018.09.05-23.02.24:503][776]LogHttp: Warning: 0000021648F5E840: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.02.24:503][776]LogHttp: Warning: 0000021648F5E840: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.02.24:503][776]LogHttp: Warning: 0000021648F5E840: libcurl info message cache 0 (  Trying 34.231.0.173...)
+[2018.09.05-23.02.24:503][776]LogHttp: Warning: 0000021648F5E840: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-23.02.24:503][776]LogHttp: Warning: 0000021648F5E840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.231.0.173) port 443 (#95))
+[2018.09.05-23.02.24:503][776]LogHttp: Warning: 0000021648F5E840: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-23.02.24:503][776]LogHttp: Warning: 0000021648F5E840: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.02.24:503][776]LogHttp: Warning: 0000021648F5E840: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-23.02.24:504][776]LogHttp: Warning: 0000021648F5E840: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.02.24:504][776]LogHttp: Warning: 0000021648F5E840: libcurl info message cache 7 (Closing connection 95)
+[2018.09.05-23.04.23:921][132]LogHttp: Warning: 0000021648F5EAC0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.04.23:921][132]LogHttp: Warning: 0000021648F5EAC0: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.04.23:921][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.04.23:921][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.04.23:922][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 2 (  Trying 34.238.221.216...)
+[2018.09.05-23.04.23:922][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.04.23:922][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.238.221.216) port 443 (#96))
+[2018.09.05-23.04.23:922][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.04.23:922][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.04.23:922][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.04.23:922][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.04.23:922][132]LogHttp: Warning: 0000021648F5EAC0: libcurl info message cache 9 (Closing connection 96)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 2 (  Trying 52.202.184.141...)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.202.184.141) port 443 (#97))
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.05.24:043][311]LogHttp: Warning: 0000021648F5E980: libcurl info message cache 9 (Closing connection 97)
+[2018.09.05-23.06.43:314][441]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: libcurl info message cache 0 (  Trying 52.2.250.239...)
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.250.239) port 443 (#98))
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.10.24:507][ 98]LogHttp: Warning: 000002162A341580: libcurl info message cache 7 (Closing connection 98)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 2 (  Trying 18.210.62.211...)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (18.210.62.211) port 443 (#99))
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.12.23:959][454]LogHttp: Warning: 000002162A341300: libcurl info message cache 9 (Closing connection 99)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 2 (  Trying 52.3.98.22...)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.3.98.22) port 443 (#100))
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.13.24:264][634]LogHttp: Warning: 000002162A343880: libcurl info message cache 9 (Closing connection 100)
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: libcurl info message cache 0 (  Trying 35.153.123.226...)
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.153.123.226) port 443 (#101))
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.18.24:675][528]LogHttp: Warning: 000002162A343880: libcurl info message cache 7 (Closing connection 101)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 2 (  Trying 18.210.62.211...)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (18.210.62.211) port 443 (#102))
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.20.24:291][884]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 9 (Closing connection 102)
+[2018.09.05-23.25.24:739][775]LogHttp: Warning: 000002162A3434C0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.25.24:739][775]LogHttp: Warning: 000002162A3434C0: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.25.24:739][775]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 0 (  Trying 52.201.67.204...)
+[2018.09.05-23.25.24:739][775]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-23.25.24:739][775]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.201.67.204) port 443 (#103))
+[2018.09.05-23.25.24:739][775]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-23.25.24:739][775]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.25.24:739][775]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-23.25.24:740][775]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.25.24:740][775]LogHttp: Warning: 000002162A3434C0: libcurl info message cache 7 (Closing connection 103)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 2 (  Trying 34.238.221.216...)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.238.221.216) port 443 (#104))
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.27.23:814][128]LogHttp: Warning: 000002162A343B00: libcurl info message cache 9 (Closing connection 104)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 2 (  Trying 35.174.89.230...)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (35.174.89.230) port 443 (#105))
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.28.23:904][306]LogHttp: Warning: 000002162A3439C0: libcurl info message cache 9 (Closing connection 105)
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: libcurl info message cache 0 (  Trying 52.21.145.104...)
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.145.104) port 443 (#106))
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.33.24:374][197]LogHttp: Warning: 000002162D829800: libcurl info message cache 7 (Closing connection 106)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 2 (  Trying 52.203.15.83...)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.203.15.83) port 443 (#107))
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.35.24:118][552]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 9 (Closing connection 107)
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 0 (  Trying 34.235.83.12...)
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.83.12) port 443 (#108))
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.40.24:377][442]LogHttp: Warning: 000002162D829BC0: libcurl info message cache 7 (Closing connection 108)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 2 (  Trying 34.207.10.243...)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.207.10.243) port 443 (#109))
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.42.23:780][796]LogHttp: Warning: 000002162D82BD80: libcurl info message cache 9 (Closing connection 109)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 2 (  Trying 52.206.37.107...)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.206.37.107) port 443 (#110))
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.43.23:886][974]LogHttp: Warning: 000002162D828900: libcurl info message cache 9 (Closing connection 110)
+[2018.09.05-23.46.11:114][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.056
+[2018.09.05-23.46.11:117][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Porte_blueprint_Blueprint1] ([1] browsable assets)...
+[2018.09.05-23.46.11:130][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Porte_blueprint_Blueprint1.Porte_blueprint_Blueprint1]
+[2018.09.05-23.46.11:130][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Porte_blueprint_Blueprint1]
+[2018.09.05-23.46.11:167][248]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Porte_blueprint_Blueprint1_Auto678937C1A48CE9F07F658B9B623E7225C.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/Porte_blueprint_Blueprint1_Auto6.uasset'
+[2018.09.05-23.46.11:168][248]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.09.05-23.46.16:128][524]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::ComposeRotators' [Élément introuvable.]
+[2018.09.05-23.46.16:984][570]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::ComposeRotators' [Élément introuvable.]
+[2018.09.05-23.46.17:608][602]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::ComposeRotators' [Élément introuvable.]
+[2018.09.05-23.46.18:194][630]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::ComposeRotators' [Élément introuvable.]
+[2018.09.05-23.47.28:071][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.47.34:878][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.47.39:586][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.47.45:777][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.47.45:836][814]BlueprintLog: New page: Compile Porte_blueprint_Blueprint1
+[2018.09.05-23.47.47:446][873]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-23.47.47:481][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.47.47:482][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-23.47.47:491][873]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 15:47:47)
+[2018.09.05-23.47.47:494][873]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.05-23.47.47:560][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065853s)
+[2018.09.05-23.47.47:586][873]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.05-23.47.47:596][873]LogPlayLevel: PIE: World Init took: (0.034958s)
+[2018.09.05-23.47.47:596][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.103579s)
+[2018.09.05-23.47.47:648][873]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-23.47.47:688][873]LogInit: FAudioDevice initialized.
+[2018.09.05-23.47.47:746][873]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.05-23.47.47:790][873]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.05-19.47.47
+[2018.09.05-23.47.47:797][873]LogWorld: Bringing up level for play took: 0.044741
+[2018.09.05-23.47.47:844][873]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1,231
+[2018.09.05-23.47.47:844][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.47.47:849][873]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Porte_blueprint_Blueprint1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2018.09.05-23.47.58:544][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.47.58:545][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.47.58:599][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.05-23.47.58:600][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.47.58:637][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.47.58:673][507]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.05-23.48.05:333][898]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.09.05-23.48.09:628][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.48.09:695][153]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-23.48.09:710][153]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.48.09:710][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-23.48.09:710][153]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 15:48:09)
+[2018.09.05-23.48.09:710][153]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.05-23.48.09:722][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011488s)
+[2018.09.05-23.48.09:722][153]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.05-23.48.09:722][153]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.09.05-23.48.09:722][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012442s)
+[2018.09.05-23.48.09:816][153]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-23.48.09:853][153]LogInit: FAudioDevice initialized.
+[2018.09.05-23.48.09:884][153]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.05-23.48.09:887][153]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.05-19.48.09
+[2018.09.05-23.48.09:887][153]LogWorld: Bringing up level for play took: 0.001327
+[2018.09.05-23.48.09:901][153]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,711
+[2018.09.05-23.48.09:901][153]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.48.09:901][153]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Porte_blueprint_Blueprint1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2018.09.05-23.48.16:204][523]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.48.16:204][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.48.16:239][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.05-23.48.16:240][523]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.48.16:267][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.48.16:310][525]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.05-23.48.17:412][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.48.24:006][986]LogHttp: Warning: 000002159BDE6FC0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: libcurl info message cache 0 (  Trying 34.202.96.104...)
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.202.96.104) port 443 (#111))
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.48.24:007][986]LogHttp: Warning: 000002159BDE6FC0: libcurl info message cache 7 (Closing connection 111)
+[2018.09.05-23.48.31:619][442]LogSlate: Window 'Message Log' being destroyed
+[2018.09.05-23.48.31:624][442]LogSlate: Window 'Message Log' being destroyed
+[2018.09.05-23.48.39:341][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.49.11:669][842]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-23.49.11:684][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.49.11:684][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-23.49.11:684][842]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 15:49:11)
+[2018.09.05-23.49.11:684][842]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.05-23.49.11:694][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010457s)
+[2018.09.05-23.49.11:695][842]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.05-23.49.11:695][842]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2018.09.05-23.49.11:695][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011450s)
+[2018.09.05-23.49.11:740][842]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-23.49.11:777][842]LogInit: FAudioDevice initialized.
+[2018.09.05-23.49.11:804][842]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.05-23.49.11:807][842]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.05-19.49.11
+[2018.09.05-23.49.11:807][842]LogWorld: Bringing up level for play took: 0.001420
+[2018.09.05-23.49.11:820][842]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,792
+[2018.09.05-23.49.11:820][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.49.11:820][842]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Porte_blueprint_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2018.09.05-23.49.14:316][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.49.14:316][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.49.14:351][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.05-23.49.14:351][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.49.14:379][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.49.14:440][992]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.05-23.49.15:450][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.49.26:603][714]LogSlate: Window 'Message Log' being destroyed
+[2018.09.05-23.49.26:607][714]LogSlate: Window 'Message Log' being destroyed
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 2 (  Trying 35.168.99.131...)
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (35.168.99.131) port 443 (#112))
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.49.26:758][724]LogHttp: Warning: 000002163D5A9E40: libcurl info message cache 9 (Closing connection 112)
+[2018.09.05-23.49.27:370][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.50.47:888][  2]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-23.50.47:907][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.50.47:907][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-23.50.47:907][  2]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 15:50:47)
+[2018.09.05-23.50.47:907][  2]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.05-23.50.47:919][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011468s)
+[2018.09.05-23.50.47:920][  2]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.05-23.50.47:920][  2]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.09.05-23.50.47:920][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012610s)
+[2018.09.05-23.50.47:949][  2]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-23.50.47:990][  2]LogInit: FAudioDevice initialized.
+[2018.09.05-23.50.48:027][  2]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.05-23.50.48:030][  2]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.05-19.50.48
+[2018.09.05-23.50.48:031][  2]LogWorld: Bringing up level for play took: 0.002443
+[2018.09.05-23.50.48:043][  2]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,569
+[2018.09.05-23.50.48:043][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 2 (  Trying 35.153.94.250...)
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (35.153.94.250) port 443 (#113))
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.51.01:587][768]LogHttp: Warning: 000002163E30C180: libcurl info message cache 9 (Closing connection 113)
+[2018.09.05-23.51.35:900][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.51.35:900][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.51.35:935][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.05-23.51.35:935][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.51.35:957][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.51.36:015][828]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.09.05-23.51.37:049][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.51.37:116][894]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-23.51.37:131][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.51.37:131][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-23.51.37:131][894]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 15:51:37)
+[2018.09.05-23.51.37:131][894]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.05-23.51.37:141][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009670s)
+[2018.09.05-23.51.37:141][894]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.05-23.51.37:141][894]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.09.05-23.51.37:142][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010543s)
+[2018.09.05-23.51.37:172][894]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-23.51.37:207][894]LogInit: FAudioDevice initialized.
+[2018.09.05-23.51.37:238][894]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.05-23.51.37:241][894]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.05-19.51.37
+[2018.09.05-23.51.37:241][894]LogWorld: Bringing up level for play took: 0.001317
+[2018.09.05-23.51.37:254][894]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,642
+[2018.09.05-23.51.37:254][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.51.51:537][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.51.51:537][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.51.51:577][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.05-23.51.51:578][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.05-23.51.51:602][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-23.51.51:637][752]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.05-23.52.55:442][965]LogEditorViewport: Clicking on Actor (LMB): ScrollBookCandle_Book_Blueprint_C (Livre_blueprint)
+[2018.09.05-23.52.56:000][996]Cmd: EDIT COPY
+[2018.09.05-23.52.56:568][ 29]Cmd: EDIT PASTE
+[2018.09.05-23.53.18:908][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.53.20:207][444]LogEditorViewport: Clicking on Actor (LMB): ScrollBookCandle_Book_Blueprint_C (Livre_blueprint)
+[2018.09.05-23.53.21:233][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-23.53.23:339][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-23.53.23:345][629]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ScrollBookCandle_Book_Blueprint.ScrollBookCandle_Book_Blueprint
+[2018.09.05-23.55.14:332][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-23.55.56:961][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-23.56.01:713][327]LogHttp: Warning: 000002162D829440: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: libcurl info message cache 0 (  Trying 35.153.94.250...)
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.153.94.250) port 443 (#114))
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.56.01:714][328]LogHttp: Warning: 000002162D829440: libcurl info message cache 7 (Closing connection 114)
+[2018.09.05-23.57.20:544][963]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/ScrollBookCandle_Book_Blueprint835A5F9F4775165B46BFF886EB9316D3.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/ScrollBookCandle_Book_Blueprint.uasset'
+[2018.09.05-23.57.23:995][169]LogHttp: Warning: 000002165733C900: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B6E2F0-4576-C11D-5573-72935EB7B58B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=af83421a4cf81d0254d1f08dc6b8cca5%7C46864163cb7749dd9797fd8e3c818371%7C12056b22-780a-4945-8c7c-253687a831c1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: request failed, libcurl error: 0 (No error)
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 2 (  Trying 52.22.214.7...)
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.22.214.7) port 443 (#115))
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.05-23.57.23:996][169]LogHttp: Warning: 000002165733C900: libcurl info message cache 9 (Closing connection 115)
+[2018.09.05-23.57.44:594][385]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap10B7D3D64111D83A3428F4B60E2A4236.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.05-23.57.45:805][385]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_BuiltData2B78DE694A4BBA29D2501696482BB09B.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.06-03.11.33:259][592]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.06-03.11.33:656][592]LogHttp: Warning: 0000021619E70B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.06-03.11.33:656][592]LogHttp: Warning: 0000021619E70B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.06-03.11.33:656][592]LogHttp: Warning: 0000021619E70B80: libcurl info message cache 1 (Closing connection 116)
+[2018.09.06-03.11.33:656][592]LogHttp: Warning: 0000021619E734C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.06-03.11.33:657][592]LogHttp: Warning: 0000021619E734C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.06-03.11.33:657][592]LogHttp: Warning: 0000021619E734C0: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.06-03.11.33:657][592]LogHttp: Warning: 0000021619E734C0: libcurl info message cache 2 (Closing connection 117)
+[2018.09.06-03.11.33:826][592]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.06-03.11.34:487][593]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.06-03.11.42:401][616]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.047
+[2018.09.06-03.11.42:403][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Porte_blueprint_Blueprint1] ([1] browsable assets)...
+[2018.09.06-03.11.42:433][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Porte_blueprint_Blueprint1.Porte_blueprint_Blueprint1]
+[2018.09.06-03.11.42:433][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Porte_blueprint_Blueprint1]
+[2018.09.06-03.11.42:484][616]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Porte_blueprint_Blueprint1_Auto7202E2FF9453F907D8BD6C286A532B5F0.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/Porte_blueprint_Blueprint1_Auto7.uasset'
+[2018.09.06-03.11.42:485][616]LogFileHelpers: Auto-saving content packages took 0.083
+[2018.09.06-03.13.26:227][360]LogSlate: Window 'ScrollBookCandle_Book_Blueprint' being destroyed
+[2018.09.06-03.13.26:243][360]LogSlate: Window 'ScrollBookCandle_Book_Blueprint' being destroyed
+[2018.09.06-03.13.26:840][360]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.06-03.13.31:450][615]LogEditorActor: Deleted Actor: ScrollBookCandle_Book_Blueprint_C
+[2018.09.06-03.13.31:486][615]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.09.06-03.13.39:061][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MurPorteDroite)
+[2018.09.06-03.13.41:383][207]Cmd: DELETE
+[2018.09.06-03.13.41:383][207]Cmd: ACTOR DELETE
+[2018.09.06-03.13.41:387][207]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.06-03.13.41:423][207]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.09.06-03.13.43:035][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MurPorteGauche)
+[2018.09.06-03.13.44:337][380]Cmd: DELETE
+[2018.09.06-03.13.44:337][380]Cmd: ACTOR DELETE
+[2018.09.06-03.13.44:339][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.06-03.13.44:362][380]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.06-03.13.46:985][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.13.47:069][543]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.13.47:091][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.13.47:091][543]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.06-03.13.47:095][543]LogPlayLevel: [PlayLevel] Compiling ScrollBookCandle_Book_Blueprint before play...
+[2018.09.06-03.13.47:108][543]LogBlueprint: Error: [Compiler ScrollBookCandle_Book_Blueprint] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.06-03.13.47:111][543]LogBlueprint: Error: [Compiler ScrollBookCandle_Book_Blueprint] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.06-03.13.47:112][543]LogBlueprint: Warning: [Compiler ScrollBookCandle_Book_Blueprint] [9194,48] Compile of ScrollBookCandle_Book_Blueprint failed. 2 Fatal Issue(s) 0 Warning(s) [in 19 ms] (/Game/ScrollBookCandle_Book_Blueprint.ScrollBookCandle_Book_Blueprint)
+[2018.09.06-03.13.47:224][543]LogPlayLevel: PlayLevel: Blueprint regeneration took 133 ms (1 blueprints)
+[2018.09.06-03.13.47:224][543]BlueprintLog: Blueprint ScrollBookCandle_Book_Blueprint failed to compile
+[2018.09.06-03.13.50:292][543]LogSlate: Window 'Message' being destroyed
+[2018.09.06-03.13.55:956][820]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap9033BFAD46BECDC82CB21A8C01960597.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.06-03.13.56:750][820]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_BuiltData7DD0CAB04521F0003B3AB7AC39F5BC85.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.06-03.14.05:780][356]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ScrollBookCandle_Book_Blueprint.ScrollBookCandle_Book_Blueprint
+[2018.09.06-03.14.13:164][760]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/ScrollBookCandle_Book_BlueprintCF8426E44E00B75AA0A202BFB21D930F.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/ScrollBookCandle_Book_Blueprint.uasset'
+[2018.09.06-03.14.14:449][806]BlueprintLog: New page: Compile ScrollBookCandle_Book_Blueprint
+[2018.09.06-03.14.16:908][879]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.14.16:931][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.14.16:931][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-03.14.16:932][879]PIE: New page: PIE session: FirstPersonExampleMap (5 sept. 2018 19:14:16)
+[2018.09.06-03.14.16:932][879]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.06-03.14.16:943][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010835s)
+[2018.09.06-03.14.16:943][879]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.06-03.14.16:943][879]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.09.06-03.14.16:944][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011811s)
+[2018.09.06-03.14.16:978][879]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.06-03.14.16:987][879]LogInit: FAudioDevice initialized.
+[2018.09.06-03.14.17:020][879]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.06-03.14.17:023][879]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.05-23.14.17
+[2018.09.06-03.14.17:024][879]LogWorld: Bringing up level for play took: 0.002281
+[2018.09.06-03.14.17:038][879]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,434
+[2018.09.06-03.14.17:038][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.14.30:249][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.14.30:249][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.14.30:289][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.14.30:289][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.06-03.14.30:315][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.14.30:352][633]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.09.06-03.14.34:186][863]LogEditorViewport: Clicking on Actor (LMB): ScrollBookCandle_Book_Blueprint_C (Livre_blueprint)
+[2018.09.06-03.14.37:155][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.14.40:648][246]LogActorFactory: Actor Factory created Cube
+[2018.09.06-03.14.41:738][311]LogActorFactory: Actor Factory created Cube
+[2018.09.06-03.14.56:388][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.14.59:573][373]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.15.08:990][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.15.09:165][869]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMapCE9F321245757B785FF0C59E64206145.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.06-03.15.09:932][869]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_BuiltData584F704B4BCACF6A43C253B476C25143.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.06-03.15.11:896][980]Cmd: DELETE
+[2018.09.06-03.15.11:896][980]Cmd: ACTOR DELETE
+[2018.09.06-03.15.11:898][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.06-03.15.11:923][980]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.09.06-03.15.12:369][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.15.12:548][  7]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap39A8B4144C6365941DD9CBAEECE7AB70.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.06-03.15.13:343][  7]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_BuiltDataC7DDCA0C48CF18127540E3A4E364CF8B.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 0 (  Trying 52.2.147.45...)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.147.45) port 443 (#118))
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 5 (SSL re-using session ID)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 000002162CC6B880: libcurl info message cache 8 (Closing connection 118)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 00000215F07EB740: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215a78a3fa0 [serially])
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 2 (  Trying 52.206.252.70...)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.06-03.15.22:095][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.206.252.70) port 443 (#119))
+[2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 7 (SSL re-using session ID)
+[2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 9 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.06-03.15.22:096][ 49]LogHttp: Warning: 00000215F07EB740: libcurl info message cache 10 (Closing connection 119)
