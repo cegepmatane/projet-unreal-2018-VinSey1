@@ -847,3 +847,102 @@ LogInit: Object subsystem initialized
 [2018.09.20-03.11.57:818][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.09.20-03.11.58:735][ 80]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMapEC1126D14991AC5A531FD983344AE0AA.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2018.09.20-03.12.02:355][ 80]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_BuiltDataEF55A0854E15672EA1DC3E9A34C000CB.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.20-03.13.41:056][557]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.09.20-03.14.18:968][619]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonCharacterA10AC79B49ACD4197D2A6CB903D4FC4C.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.20-03.14.42:426][968]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonCharacter477F96BF4E2757FEED2510BAA4CA9B39.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.20-03.14.59:062][141]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.09.20-03.15.00:567][223]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Livre_Blueprint.Livre_Blueprint
+[2018.09.20-03.15.25:320][613]LogEditorTransaction: Undo Move Node
+[2018.09.20-03.15.25:935][646]LogEditorTransaction: Undo Move Node
+[2018.09.20-03.15.26:361][670]LogEditorTransaction: Undo Resize Node
+[2018.09.20-03.15.44:812][708]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_DestroyActor' [Élément introuvable.]
+[2018.09.20-03.16.28:182][156]BlueprintLog: New page: Compile Livre_Blueprint
+[2018.09.20-03.16.29:402][220]LogSlate: Window 'Livre_Blueprint*' being destroyed
+[2018.09.20-03.16.29:407][220]LogSlate: Window 'Livre_Blueprint*' being destroyed
+[2018.09.20-03.16.32:638][407]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Obstacle_Blueprint.Obstacle_Blueprint
+[2018.09.20-03.17.18:328][497]LogSlate: Window 'Obstacle_Blueprint*' being destroyed
+[2018.09.20-03.17.18:334][497]LogSlate: Window 'Obstacle_Blueprint*' being destroyed
+[2018.09.20-03.17.19:628][569]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Livre_Blueprint.Livre_Blueprint
+[2018.09.20-03.17.40:114][936]LogSlate: Window 'Livre_Blueprint*' being destroyed
+[2018.09.20-03.17.40:118][936]LogSlate: Window 'Livre_Blueprint*' being destroyed
+[2018.09.20-03.17.44:421][188]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Slenderman_Blueprint.Slenderman_Blueprint
+[2018.09.20-03.19.30:280][637]BlueprintLog: New page: Compile Slenderman_Blueprint
+[2018.09.20-03.19.34:364][771]LogSlate: Window 'Slenderman_Blueprint*' being destroyed
+[2018.09.20-03.19.34:368][771]LogSlate: Window 'Slenderman_Blueprint*' being destroyed
+[2018.09.20-03.20.15:376][205]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2018.09.20-03.22.02:300][745]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/FirstPersonExampleMap_Auto24502E1EB42C09BAB3E4C46AC687F063D.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.09.20-03.22.02:308][745]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.311
+[2018.09.20-03.22.02:308][745]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.311
+[2018.09.20-03.22.02:310][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Livre_Blueprint] ([1] browsable assets)...
+[2018.09.20-03.22.02:322][745]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Livre_Blueprint.Livre_Blueprint]
+[2018.09.20-03.22.02:322][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Livre_Blueprint]
+[2018.09.20-03.22.02:353][745]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Livre_Blueprint_Auto2FADD49814292FD924DB3FB95EFFABE7E.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/FirstPersonBP/Livre_Blueprint_Auto2.uasset'
+[2018.09.20-03.22.02:354][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Obstacle_Blueprint] ([1] browsable assets)...
+[2018.09.20-03.22.02:365][745]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Obstacle_Blueprint.Obstacle_Blueprint]
+[2018.09.20-03.22.02:365][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Obstacle_Blueprint]
+[2018.09.20-03.22.02:401][745]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Obstacle_Blueprint_Auto20A232D784A9FE528FFE516B4C5E3BFFA.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/FirstPersonBP/Obstacle_Blueprint_Auto2.uasset'
+[2018.09.20-03.22.02:402][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Slenderman_Blueprint] ([1] browsable assets)...
+[2018.09.20-03.22.02:402][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Slenderman_Blueprint]
+[2018.09.20-03.22.02:428][745]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Slenderman_Blueprint_Auto2EE756E104389232B5AB79EA69D1C9ACC.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/FirstPersonBP/Slenderman_Blueprint_Auto2.uasset'
+[2018.09.20-03.22.02:430][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Affectable] ([1] browsable assets)...
+[2018.09.20-03.22.02:430][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Affectable]
+[2018.09.20-03.22.02:438][745]LogSavePackage: Moving '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Affectable_Auto2A66867EB4EAABFB702F8BF9C3247FD5D.tmp' to '../../../../../../Users/Vincent/Desktop/Cours/Mondes virtuels/projet-unreal-2018-VinSey1/Saved/Autosaves/Game/FirstPersonBP/Affectable_Auto2.uasset'
+[2018.09.20-03.22.02:439][745]LogFileHelpers: Auto-saving content packages took 0.129
+[2018.09.20-03.24.55:551][834]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2018.09.20-03.25.02:036][197]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-03.25.02:052][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-03.25.02:052][197]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.20-03.25.02:073][197]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.09.20-03.25.02:199][197]LogPlayLevel: [PlayLevel] Compiling Obstacle_Blueprint before play...
+[2018.09.20-03.25.02:318][197]LogPlayLevel: PlayLevel: Blueprint regeneration took 265 ms (2 blueprints)
+[2018.09.20-03.25.02:318][197]PIE: New page: PIE session: FirstPersonExampleMap (19 sept. 2018 19:25:02)
+[2018.09.20-03.25.02:318][197]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.20-03.25.02:336][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017743s)
+[2018.09.20-03.25.02:337][197]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-03.25.02:337][197]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2018.09.20-03.25.02:337][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018810s)
+[2018.09.20-03.25.02:374][197]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-03.25.02:385][197]LogInit: FAudioDevice initialized.
+[2018.09.20-03.25.02:419][197]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-03.25.02:423][197]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.19-23.25.02
+[2018.09.20-03.25.02:423][197]LogWorld: Bringing up level for play took: 0.003359
+[2018.09.20-03.25.02:438][197]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,587
+[2018.09.20-03.25.02:438][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-03.25.06:078][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-03.25.06:079][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-03.25.06:115][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-03.25.06:116][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-03.25.06:143][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-03.25.06:181][415]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.09.20-03.25.08:625][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sol1)
+[2018.09.20-03.25.09:951][637]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.09.20-03.25.31:059][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-03.25.32:509][958]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.09.20-03.25.36:872][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-03.25.36:938][222]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-03.25.36:952][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-03.25.36:953][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-03.25.36:953][222]PIE: New page: PIE session: FirstPersonExampleMap (19 sept. 2018 19:25:36)
+[2018.09.20-03.25.36:953][222]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.20-03.25.36:967][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014699s)
+[2018.09.20-03.25.36:968][222]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-03.25.36:968][222]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.09.20-03.25.36:969][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015779s)
+[2018.09.20-03.25.37:035][222]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-03.25.37:042][222]LogInit: FAudioDevice initialized.
+[2018.09.20-03.25.37:076][222]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-03.25.37:081][222]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.19-23.25.37
+[2018.09.20-03.25.37:081][222]LogWorld: Bringing up level for play took: 0.003424
+[2018.09.20-03.25.37:094][222]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,069
+[2018.09.20-03.25.37:094][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-03.25.57:835][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-03.25.57:835][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-03.25.57:873][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-03.25.57:873][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-03.25.57:900][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-03.25.57:934][461]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.09.20-03.25.59:537][557]LogEditorViewport: Clicking on Actor (LMB): Livre_Blueprint_C (Livre_Blueprint)
+[2018.09.20-03.26.00:582][615]LogEditorViewport: Clicking on Actor (LMB): Livre_Blueprint_C (Livre_Blueprint)
+[2018.09.20-03.26.01:073][644]LogEditorViewport: Clicking on Actor (LMB): Livre_Blueprint_C (Livre_Blueprint)
+[2018.09.20-03.26.04:579][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-03.26.04:673][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Livre_Blueprint.Livre_Blueprint
